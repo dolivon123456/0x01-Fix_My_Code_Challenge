@@ -1,6 +1,6 @@
 # README
 
-Blog application:
+Blogs application:
 
 ## How to install it:
 
